@@ -1,0 +1,6 @@
+framework module MagicCalculator {
+  umbrella header "MagicCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
