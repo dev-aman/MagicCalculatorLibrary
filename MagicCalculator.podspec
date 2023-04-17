@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MagicCalculator'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'A Magical light wieght Calculator'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
